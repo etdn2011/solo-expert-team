@@ -1,0 +1,46 @@
+MIT License
+
+Copyright (c) 2026 SOLO Expert Team Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## 特别说明
+
+本仓库包含的"专家Skill"是基于公开信息（著作、演讲、访谈等）通过AI技术"蒸馏"生成的思维框架模拟。
+
+### 免责声明
+
+1. **非真实人物代言**：这些Skill不代表真实人物的观点或授权，仅供学习研究使用
+2. **基于公开信息**：所有内容均来自公开可获取的资料，不涉及隐私或机密信息
+3. **模拟性质**：Skill输出的是"思维框架模拟"，不是真实人物的完整再现
+4. **学习目的**：旨在帮助用户理解不同领域的思考方式，不构成专业建议
+
+### 使用建议
+
+- 将Skill输出作为"思考参考"，而非"标准答案"
+- 重要决策请咨询真实领域的专业人士
+- 如发现Skill内容有误，欢迎提交Issue修正
+
+### 致谢
+
+- 基于 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 构建
+- 遵循 [Agent Skills 协议](https://agentskills.io/)
+- 感谢所有被蒸馏专家公开的思考和教育贡献

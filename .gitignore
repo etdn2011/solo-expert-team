@@ -1,0 +1,61 @@
+# SOLO Expert Team - Git Ignore
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Node modules (if any scripts use npm)
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Backup files
+*.bak
+*.backup
+
+# Test files
+test/
+tests/
+*.test.js
+*.spec.js
+
+# Don't ignore these important files
+!README.md
+!CHANGELOG.md
+!LICENSE
+!.gitignore
+!docs/
+!scripts/
+!skills/
