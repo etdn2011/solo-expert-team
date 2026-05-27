@@ -22,14 +22,38 @@
 
 ## 🚀 快速开始
 
-### 安装
+### 方式一：极简版（推荐 ⭐，单文件即用）
+
+只需复制 **1个文件**，就能在任何对话中使用总管系统：
 
 ```bash
-# 方式一：一键安装（推荐）
-npx skills add your-github-username/solo-expert-team
+# 克隆仓库
+git clone https://github.com/etdn2011/solo-expert-team.git
 
-# 方式二：手动克隆
-git clone https://github.com/your-github-username/solo-expert-team.git ~/.claude/skills/solo-expert-team
+# 只复制极简版总管（1个文件）
+cp -r solo-expert-team/skills/总管 ~/.claude/skills/
+```
+
+安装完成后，直接对 AI 说：
+
+```
+> 总管，帮我分析这个问题
+```
+
+### 方式二：完整版（52个独立Skill，深度知识库）
+
+```bash
+# 克隆仓库
+git clone https://github.com/etdn2011/solo-expert-team.git
+
+# 复制所有Skill
+cp -r solo-expert-team/skills/* ~/.claude/skills/
+```
+
+### 方式三：一键安装脚本
+
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/etdn2011/solo-expert-team/main/scripts/install.sh)
 ```
 
 ### 使用
