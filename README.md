@@ -31,7 +31,7 @@
 git clone https://github.com/etdn2011/solo-expert-team.git
 
 # 只复制极简版总管（1个文件）
-cp -r solo-expert-team/skills/总管 ~/.claude/skills/
+cp -r solo-expert-team/skills/master-coordinator-lite ~/.claude/skills/
 ```
 
 安装完成后，直接对 AI 说：
