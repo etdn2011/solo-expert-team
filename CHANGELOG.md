@@ -6,6 +6,43 @@
 
 ---
 
+## [1.1.0] - 2026-05-28
+
+### 🎉 新增企业管理、营销、互联网三大领域专家
+
+#### 新增专家（17位）
+
+**企业管理领域（5位）**
+- 张瑞敏（zhang-ruimin-perspective-v2）- 人单合一/零距离管理/砸冰箱精神
+- 宋志平（song-zhiping-perspective-v2）- 整合管理/中国式管理/三精管理
+- 大前研一（ohmae-kenichi-perspective-v2）- 3C战略三角/M型社会/专业主义
+- 汤姆·彼得斯（tom-peters-perspective-v2）- 追求卓越/崇尚行动/解放管理
+- 拉姆·查兰（ram-charan-perspective-v2）- 执行四要素/领导梯队/坦诚对话
+
+**营销领域（6位）**
+- 科特勒（kotler-perspective-v2）- 4P理论/STP战略/现代营销学之父
+- 里斯（ries-perspective-v2）- 定位理论/品类战略/聚焦法则
+- 特劳特（trout-perspective-v2）- 商战法则/心智战争/差异化或死亡
+- 肖恩·埃利斯（ellis-perspective-v2）- 北极星指标/增长实验/AARRR模型
+- 塞斯·高汀（godin-perspective-v2）- 紫牛理论/部落营销/许可营销
+- 瑞安·戴斯（desales-perspective-v2）- 客户价值旅程/营销自动化/增长引擎
+
+**互联网领域（6位）**
+- 马化腾（ma-huateng-perspective-v2）- 产品哲学/连接一切/用户体验至上
+- 张小龙（zhang-xiaolong-perspective-v2）- 极简设计/用完即走/产品直觉
+- 俞军（yu-jun-perspective-v2）- 价值公式/交易模型/用户理解
+- 苏杰（su-jie-perspective-v2）- Y模型/四轮MVP/人人都是产品经理
+- 李开复（li-kaifu-perspective-v2）- AI发展趋势/创新方法论/创业指导
+- 王慧文（wang-huiwen-perspective-v2）- 高频打低频/千团大战/效率竞争
+
+#### 新增功能
+
+- ✅ 极简版总管系统上线（单文件即用，无需安装52个Skill）
+- ✅ 专家总数从52位增至69位
+- ✅ README新增三个领域专家分类
+
+---
+
 ## [1.0.0] - 2026-05-27
 
 ### 🎉 初始发布
@@ -94,7 +131,7 @@
 
 ## 版本规划
 
-### [1.1.0] - 规划中
+### [1.2.0] - 规划中
 
 #### 新增专家（预计10-15位）
 

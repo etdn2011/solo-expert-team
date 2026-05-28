@@ -1,9 +1,9 @@
 # SOLO Expert Team · 终极专家团队系统
 
-> 52位 distilled 专家 + 智能总管系统，为你的每一个问题找到最优解
+> 69位 distilled 专家 + 智能总管系统，为你的每一个问题找到最优解
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](CHANGELOG.md)
-[![Skills](https://img.shields.io/badge/skills-52+-green.svg)](#专家列表)
+[![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)](CHANGELOG.md)
+[![Skills](https://img.shields.io/badge/skills-69+-green.svg)](#专家列表)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
 
 ---
@@ -14,7 +14,7 @@
 
 这是一个基于 [Agent Skills 协议](https://agentskills.io/) 的专家团队系统，包含：
 
-- **52位 distilled 专家** —— 覆盖心理学、商业、科技、管理等全领域
+- **69位 distilled 专家** —— 覆盖心理学、商业、科技、管理、营销、互联网等全领域
 - **智能总管系统** —— 自动分析问题、组建团队、必要时招募新专家
 - **三种协作模式** —— 单专家、交叉团队、圆桌辩论
 
@@ -73,7 +73,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/etdn2011/solo-expert-team/ma
 
 ---
 
-## 📚 专家列表（52位）
+## 📚 专家列表（69位）
 
 ### 🧠 心理学与行为科学（10位）
 
@@ -158,6 +158,38 @@ bash <(curl -fsSL https://raw.githubusercontent.com/etdn2011/solo-expert-team/ma
 | [克里斯坦森](skills/christensen-perspective-v2/) | 颠覆式创新、Jobs to be Done |
 | [格里森](skills/mccord-perspective-v2/) | 绝对坦率、人才密度 |
 
+### 📊 企业管理新增（5位）
+
+| 专家 | 领域 | 核心能力 |
+|------|------|---------|
+| [张瑞敏](skills/zhang-ruimin-perspective-v2/) | 海尔管理 | 人单合一、零距离管理、砸冰箱精神 |
+| [宋志平](skills/song-zhiping-perspective-v2/) | 央企改革 | 整合管理、中国式管理、三精管理 |
+| [大前研一](skills/ohmae-kenichi-perspective-v2/) | 战略管理 | 3C战略三角、M型社会、专业主义 |
+| [汤姆·彼得斯](skills/tom-peters-perspective-v2/) | 创新管理 | 追求卓越、崇尚行动、解放管理 |
+| [拉姆·查兰](skills/ram-charan-perspective-v2/) | 执行管理 | 执行四要素、领导梯队、坦诚对话 |
+
+### 📢 营销新增（6位）
+
+| 专家 | 领域 | 核心能力 |
+|------|------|---------|
+| [科特勒](skills/kotler-perspective-v2/) | 营销管理 | 4P理论、STP战略、现代营销学之父 |
+| [里斯](skills/ries-perspective-v2/) | 定位理论 | 定位理论、品类战略、聚焦法则 |
+| [特劳特](skills/trout-perspective-v2/) | 战略定位 | 商战法则、心智战争、差异化或死亡 |
+| [肖恩·埃利斯](skills/ellis-perspective-v2/) | 增长黑客 | 北极星指标、增长实验、AARRR模型 |
+| [塞斯·高汀](skills/godin-perspective-v2/) | 营销思想 | 紫牛理论、部落营销、许可营销 |
+| [瑞安·戴斯](skills/desales-perspective-v2/) | 数字营销 | 客户价值旅程、营销自动化、增长引擎 |
+
+### 🌐 互联网新增（6位）
+
+| 专家 | 领域 | 核心能力 |
+|------|------|---------|
+| [马化腾](skills/ma-huateng-perspective-v2/) | 腾讯产品 | 产品哲学、连接一切、用户体验至上 |
+| [张小龙](skills/zhang-xiaolong-perspective-v2/) | 微信产品 | 极简设计、用完即走、产品直觉 |
+| [俞军](skills/yu-jun-perspective-v2/) | 产品方法论 | 价值公式、交易模型、用户理解 |
+| [苏杰](skills/su-jie-perspective-v2/) | 产品普及 | Y模型、四轮MVP、人人都是产品经理 |
+| [李开复](skills/li-kaifu-perspective-v2/) | AI投资 | AI发展趋势、创新方法论、创业指导 |
+| [王慧文](skills/wang-huiwen-perspective-v2/) | 本地生活 | 高频打低频、千团大战、效率竞争 |
+
 ---
 
 ## 🔧 协作系统
@@ -232,6 +264,13 @@ bash <(curl -fsSL https://raw.githubusercontent.com/etdn2011/solo-expert-team/ma
 - **修订号（0.0.X）**：Bug修复、专家Skill优化
 
 ### 当前版本
+
+**v1.1.0** (2026-05-28)
+- 新增企业管理领域5位专家（张瑞敏、宋志平、大前研一、汤姆·彼得斯、拉姆·查兰）
+- 新增营销领域6位专家（科特勒、里斯、特劳特、肖恩·埃利斯、塞斯·高汀、瑞安·戴斯）
+- 新增互联网领域6位专家（马化腾、张小龙、俞军、苏杰、李开复、王慧文）
+- 专家总数从52位增至69位
+- 极简版总管系统上线（单文件即用）
 
 **v1.0.0** (2026-05-27)
 - 初始发布
