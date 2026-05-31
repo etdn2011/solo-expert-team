@@ -1,9 +1,9 @@
 # SOLO Expert Team · 终极专家团队系统
 
-> 75位 distilled 专家 + 智能总管系统，为你的每一个问题找到最优解
+> 74位 distilled 专家 + 智能总管系统，为你的每一个问题找到最优解
 
-[![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)](CHANGELOG.md)
-[![Skills](https://img.shields.io/badge/skills-75+-green.svg)](#专家列表)
+[![Version](https://img.shields.io/badge/version-2.1.0-blue.svg)](CHANGELOG.md)
+[![Skills](https://img.shields.io/badge/skills-74+-green.svg)](#专家列表)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
 
 ---
@@ -195,6 +195,16 @@ bash <(curl -fsSL https://raw.githubusercontent.com/etdn2011/solo-expert-team/ma
 | [李开复](skills/li-kaifu-perspective-v2/) | AI投资 | AI发展趋势、创新方法论、创业指导 |
 | [王慧文](skills/wang-huiwen-perspective-v2/) | 本地生活 | 高频打低频、千团大战、效率竞争 |
 | [梁宁](skills/liang-ning-perspective-v2/) | 产品战略 | 用户体验五要素、增长模型、人性洞察 |
+
+### 🍽️ 餐饮新增（5位）
+
+| 专家 | 领域 | 核心能力 |
+|------|------|---------|
+| [张勇·海底捞](skills/zhang-yong-haidilao-perspective-v2/) | 餐饮服务 | 员工为本、服务极致、师徒制、连锁扩张 |
+| [贾国龙·西贝](skills/jia-guolong-xibei-perspective-v2/) | 餐饮产品 | 产品主义、创业分部制、赛场机制、人即产品 |
+| [戈登·拉姆齐](skills/gordon-ramsay-perspective-v2/) | 品质管理 | 品质极致、标准化运营、品牌帝国、学徒制 |
+| [阿兰·杜卡斯](skills/alain-ducasse-perspective-v2/) | 食材哲学 | 食材本味、全球餐饮帝国、可持续餐饮、厨艺教育 |
+| [托马斯·凯勒](skills/thomas-keller-perspective-v2/) | 极致体验 | 完美主义、食材尊重、边际递减、匠人精神 |
 
 ---
 
